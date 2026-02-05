@@ -52,4 +52,5 @@ Streak Tracking: - Daily activity tracking - Streak visualization
 Conclusion: The platform provides an interactive learning environment
 with scalable architecture, performance tracking, and efficient quiz
 management.
+<img width="1663" height="748" alt="download" src="https://github.com/user-attachments/assets/0ecd04fe-08e6-41be-8832-6bc46f7f8ef9" />
 
