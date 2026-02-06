@@ -20,3 +20,8 @@ More designs coming soon — consistency is the goal 💪
 <img width="964" height="805" alt="Screenshot 2026-02-06 130202" src="https://github.com/user-attachments/assets/ebb0c9b1-932f-454c-8023-6ca81396aa1b" />
 
 
+
+link of the created UX design credited to figma 
+https://www.figma.com/design/v41SM0DecEw7XhawGRjv5l/Quiz_figma_design?t=YolIf5Ci5ioQDQkY-0
+
+
