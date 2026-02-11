@@ -1,0 +1,23 @@
+.history-container {
+  padding: 40px;
+  color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #1e293b;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #334155;
+}
+
+th {
+  background: #020617;
+}
+
+tr:hover {
+  background: #334155;
+}
